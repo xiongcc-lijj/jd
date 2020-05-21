@@ -1,5 +1,3 @@
-[server_local]
-
 # 一键连VPN
 http=a1.ap.fastqvpn.com:29980, username=288658143292948480, password=130bac3f-5893-4b42-af48-9d979fc67c02, over-tls=true, tls-verification=true, tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=一键连VPN-SG
 vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=130bac3f-5893-4b42-af48-9d979fc67c02, obfs=wss, obfs-host=ap1-hk.sanjijia.club, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连VPN-HK
