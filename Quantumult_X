@@ -13,8 +13,8 @@ http=us2.swiftfalcon.app:9444, username=taylor, password=swift, over-tls=true, t
 # 闪电⚡️VPN
 shadowsocks=p5.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-TW
 shadowsocks=p4.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-SG
-shadowsocks=p3.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-US
-shadowsocks=p2.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-Vv
+shadowsocks=p3.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-JP
+shadowsocks=p2.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-US
 
 # 网易云 Music Unlock
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=网易云-Unlock
