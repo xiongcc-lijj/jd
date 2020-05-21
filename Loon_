@@ -11,10 +11,10 @@
 小地球仪-SG = http,swiftfalcon.app,9444,taylor,swift
 
 # 闪电VPN
-闪电⚡️-台湾 = Shadowsocks,p5.22332e.com,8333,rc4-md5,"passfw2xs4e!"
-闪电⚡️-新加坡 = Shadowsocks,p4.22332e.com,8333,rc4-md5,"passfw2xs4e!"
-闪电⚡️-日本 = Shadowsocks,p3.22332e.com,8333,rc4-md5,"passfw2xs4e!"
-闪电⚡️-美国 = Shadowsocks,p2.22332e.com,8333,rc4-md5,"passfw2xs4e!"
+闪电⚡️-TW = Shadowsocks,p5.22332e.com,8333,rc4-md5,"passfw2xs4e!"
+闪电⚡️-SG = Shadowsocks,p4.22332e.com,8333,rc4-md5,"passfw2xs4e!"
+闪电⚡️-JP = Shadowsocks,p3.22332e.com,8333,rc4-md5,"passfw2xs4e!"
+闪电⚡️-US = Shadowsocks,p2.22332e.com,8333,rc4-md5,"passfw2xs4e!"
 
 # 网易云-Unlock
 网易云-Unlock = http,106.52.127.72,19951
