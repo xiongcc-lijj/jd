@@ -1,13 +1,20 @@
+# 一键连VPN
 http=a1.ap.fastqvpn.com:29980, username=288658143292948480, password=130bac3f-5893-4b42-af48-9d979fc67c02, over-tls=true, tls-verification=true, tls-host=a1.ap.fastqvpn.com, fast-open=false, udp-relay=false, tag=一键连VPN-SG
 vmess=ap1-hk.sanjijia.club:443, method=chacha20-ietf-poly1305, password=130bac3f-5893-4b42-af48-9d979fc67c02, obfs=wss, obfs-host=ap1-hk.sanjijia.club, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连VPN-HK
 vmess=ap1-italy.sanjijia.club:443, method=chacha20-ietf-poly1305, password=8ce3cf94-ee52-4363-863e-d8d1f37e8cbd, obfs=wss, obfs-host=ap1-italy.sanjijia.club, obfs-uri=/ray, tls-verification=true, fast-open=false, udp-relay=false, tag=一键连VPN-IT
+
+# 小地球仪VPN
 http=cn.swiftfalcon.app:9444, username=taylor, password=swift, over-tls=true, tls-verification=true, tls-host=cn.swiftfalcon.app, fast-open=false, udp-relay=false, tag=小地球仪-CN
 http=us2.swiftfalcon.app:9444, username=taylor, password=swift, over-tls=true, tls-verification=true, tls-host=us2.swiftfalcon.app, fast-open=false, udp-relay=false, tag=小地球仪-HK
 http=jp.swiftfalcon.app:9444, username=taylor, password=swift, over-tls=true, tls-verification=true, tls-host=jp.swiftfalcon.app, fast-open=false, udp-relay=false, tag=小地球仪-JP
 http=swiftfalcon.app:9444, username=taylor, password=swift, over-tls=true, tls-verification=true, tls-host=swiftfalcon.app, fast-open=false, udp-relay=false, tag=小地球仪-SG
 http=us2.swiftfalcon.app:9444, username=taylor, password=swift, over-tls=true, tls-verification=true, tls-host=us2.swiftfalcon.app, fast-open=false, udp-relay=false, tag=小地球仪-US
-shadowsocks=p5.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-台湾
-shadowsocks=p4.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-新加坡
-shadowsocks=p3.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-日本
-shadowsocks=p2.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-美国
+
+# 闪电⚡️VPN
+shadowsocks=p5.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-TW
+shadowsocks=p4.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-SG
+shadowsocks=p3.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-JP
+shadowsocks=p2.22332e.com:8333, method=rc4-md5, password=passfw2xs4e!, fast-open=false, udp-relay=false, tag=闪电⚡️-US
+
+# 网易云 Music Unlock
 http=106.52.127.72:19951, fast-open=false, udp-relay=false, tag=网易云-Unlock
