@@ -1,5 +1,20 @@
 [Proxy]
+# 一键连VPN
+一键连-SG = http,a1.ap.fastqvpn.com,29980,288658143292948480,130bac3f-5893-4b42-af48-9d979fc67c02
+一键连-HK = vmess,ap1-hk.sanjijia.club,443,chacha20-ietf-poly1305,"130bac3f-5893-4b42-af48-9d979fc67c02",over-tls:true,tls-name:ap1-hk.sanjijia.club,transport:ws,path:/ray,host:ap1-hk.sanjijia.club
+一键连-IT = vmess,ap1-italy.sanjijia.club,443,chacha20-ietf-poly1305,"130bac3f-5893-4b42-af48-9d979fc67c02",over-tls:true,tls-name:ap1-italy.sanjijia.club,transport:ws,path:/ray,host:ap1-italy.sanjijia.club
+
+# 小地球仪VPN
 小地球仪-CN = http,cn.swiftfalcon.app,9444,taylor,swift
 小地球仪-JP = http,jp.swiftfalcon.app,9444,taylor,swift
 小地球仪-US = http,us2.swiftfalcon.app,9444,taylor,swift
 小地球仪-SG = http,swiftfalcon.app,9444,taylor,swift
+
+# 闪电VPN
+闪电⚡️-台湾 = Shadowsocks,p5.22332e.com,8333,rc4-md5,"passfw2xs4e!"
+闪电⚡️-新加坡 = Shadowsocks,p4.22332e.com,8333,rc4-md5,"passfw2xs4e!"
+闪电⚡️-日本 = Shadowsocks,p3.22332e.com,8333,rc4-md5,"passfw2xs4e!"
+闪电⚡️-美国 = Shadowsocks,p2.22332e.com,8333,rc4-md5,"passfw2xs4e!"
+
+# 网易云-Unlock
+网易云-Unlock = http,106.52.127.72,19951
